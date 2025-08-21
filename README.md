@@ -54,9 +54,9 @@ If you’d like to improve explanations, add more examples, or suggest a new pro
 Machine learning can seem intimidating at first, but with consistent practice, it becomes intuitive.
 Code-Your-ML is here to make that journey approachable, structured, and fun.
 
-**
-Let’s learn ML the right way — by coding it!
-**
+
+**Let’s learn ML the right way — by coding it!**
+
 
 
 
