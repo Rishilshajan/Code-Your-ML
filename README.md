@@ -17,7 +17,10 @@ This is not a sprint. It’s a structured learning journey that rewards persiste
 **📂 What You’ll Find Here**
 
 ✅ Focused Projects – Each project covers one key ML concept at a time.
+
 ✅ Clear Explanations – Theory is explained in simple, beginner-friendly language.
+
+
 ✅ Practical Code – Every line is well-commented so you can follow the logic step by step.
 
 **🎯 Who Is This For?**
