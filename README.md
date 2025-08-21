@@ -32,14 +32,14 @@ Anyone who wants to understand how ML actually works behind the scenes.
 
 **🛠️ Getting Started**
 
-Clone the repository
+1.Clone the repository
 
     git clone https://github.com/yourusername/Code-Your-ML.git
     cd Code-Your-ML
 
-    Follow the projects in sequence (start from Day 1).
+2.Follow the projects in sequence (start from Day 1).
 
-    Run the code, experiment, and tweak to deepen your understanding.
+3.Run the code, experiment, and tweak to deepen your understanding.
 
 **🌱 Contributing**
 
