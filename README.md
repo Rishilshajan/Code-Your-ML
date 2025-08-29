@@ -6,7 +6,7 @@ Our mission is simple: to demystify machine learning by showing you what really 
 
 **📌 How It Works**
 
-A new ML concept + coding project will be uploaded every 4 days.
+A new ML concept + coding project will be uploaded weekly.
 
 This pacing ensures you have enough time to learn, practice, and internalize each concept.
 
